@@ -1,2 +1,2 @@
 # BatchBDoor
-Complete backdoor in batch (REQUIRES PHYSICAL ACCESS)
+Complete backdoor in batch
